@@ -10,4 +10,4 @@ Para participar en la investigación:
 ES SOLO UN INDEX.HTML QUE SE PUEDE ABRIR EN UN NAVEGADOR Y QUE CON AUDA DE UNA APP WEB2APK SE 
 PUEDE CONVERTIR EN UN LAUNCHER
 
-
+abran el archivo index.html que sale arriba del archivo readme ahi esta el codigo
